@@ -19,6 +19,8 @@ results/: Contains the results of the models.
 
 src/: Contains the Python scripts for data preprocessing, modeling, evaluation, and utility functions.
 
+report/: Contains the report of this project.
+
 # Requirements
 python: 3.10.5
 
