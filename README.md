@@ -12,10 +12,14 @@ Provides comprehensive feature importance analysis.
 
 # Repository Structure
 notebooks/: Contains Jupyter notebooks of data exploration, modeling and evaluation.
+
 data/: Contains the data used in the project.
+
 results/: Contains the results of the models.
+
 src/: Contains the Python scripts for data preprocessing, modeling, evaluation, and utility functions.
 
+# Requirements
 python: 3.10.5
 
 pandas: 1.4.2
