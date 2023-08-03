@@ -1,6 +1,8 @@
 # Heart Disease Prediction
 This repository contains an analysis pipeline to predict heart disease occurrence based on health indicators. The project leverages machine learning classification models trained on the 2020 annual CDC survey data to provide predictions.
 
+![header image](https://github.com/xinrui-wang1/heart-disease-prediction/blob/main/heart_disease_header.png)
+
 # Project Introduction
 Heart disease is a leading cause of death in the U.S. This project aims to explore the correlation between coronary disease and health indicators, and develop a machine learning model to predict the likelihood of heart disease occurrence in patients. The model is trained using the CDC's Behavioral Risk Factor Surveillance System (BRFSS) data for 2020.
 
